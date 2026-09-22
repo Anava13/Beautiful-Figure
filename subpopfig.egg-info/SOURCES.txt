@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+subpopfig/__init__.py
+subpopfig/errors.py
+subpopfig/figure.py
+subpopfig/fitting.py
+subpopfig/workbook.py
+subpopfig.egg-info/PKG-INFO
+subpopfig.egg-info/SOURCES.txt
+subpopfig.egg-info/dependency_links.txt
+subpopfig.egg-info/requires.txt
+subpopfig.egg-info/top_level.txt
